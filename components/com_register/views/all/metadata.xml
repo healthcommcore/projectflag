@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<view title="Registered Users">
+		<message>
+		<![CDATA[List of registered users]]>
+		</message>
+	</view>
+	<params>
+	</params>
+</metadata>

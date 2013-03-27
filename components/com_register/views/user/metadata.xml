@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<view title="User Profile">
+		<message>
+		<![CDATA[User Profile]]>
+		</message>
+	</view>
+	<params>
+		<param name="id" type="text" size="3" default="" label="User ID"  description="Enter the ID of the user profile to be displayed" />
+	</params>
+</metadata>

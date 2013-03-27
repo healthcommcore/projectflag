@@ -1,0 +1,260 @@
+a {
+	color: #653b98;
+}
+
+a.sublevel {
+	color: #653b98;
+}
+
+a img.album {
+	border: 2px solid #57AC0B;
+}
+
+.contentheading,
+#mod-top a {
+	color: #653b98;
+}
+
+body {
+	background: #ececec;
+	color: #333333;
+}
+
+#masthead {
+	border-top: 9px solid #653b98;
+}
+
+
+#logo {
+	background: url(../images/style2/logo.png) 0 0 no-repeat;
+	width: 350px;
+	height: 142px;
+	margin-top: 5px;
+	float: left;
+}
+
+#primary-nav {
+	background: #ffebb3;
+	padding: 4px 0 8px 0;
+	border-top: 1px solid #ECECEC;
+	border-bottom: 1px solid #ECECEC;
+}
+
+
+#inset {
+	color: #653b98;
+}
+
+img#rocket {
+	background:  url(../images/style2/rocket.png) 0 0 no-repeat;
+}
+
+.module-hilite2 h3 {
+	color: #333;
+}
+
+.module-hilite2 div div div,
+.module-hilite6 div div div {
+	border-left: 8px solid #333;
+}
+
+.module-hilite3 h3,
+.module-hilite7 h3 {
+	color: #653b98;
+}
+
+.module-hilite3 a {
+	color: #653b98;
+}
+
+.module-hilite3 div div div {
+	border-left: 5px solid #653b98;
+}
+
+.module-hilite4 h3 {
+	color: #57AC0B;
+}
+
+.module-hilite4 a {
+	color: #57AC0B;
+}
+
+.module-hilite4 div div div {
+	border-left: 5px solid #57AC0B;
+}
+
+.module-quote h3 {
+	color: #653b98;
+}
+
+/* menus */
+
+#horiz-menu a {
+	color: #653b98;
+}
+
+#horiz-menu li.active a {
+	background: url(../images/style2/horiz-menu-selector.png) 50% 100% no-repeat;
+	color: #000;
+}
+
+#horiz-menu li:hover a,
+#horiz-menu li.sfHover a,
+#horiz-menu li:hover a:hover,
+#horiz-menu li.sfHover a:hover {
+	color: #000;
+}
+
+#horiz-menu li:hover li:hover a:hover,
+#horiz-menu li.sfHover li.sfHover a:hover {
+	color: #653b98;
+}
+
+#horiz-menu ul ul {
+	background: #F8F8F8;
+	border-left: 1px solid #fff;
+	border-right: 1px solid #E2E2E2;
+}
+
+#horiz-menu li li {
+	background: none;
+	border-top: 1px solid #fff;
+	border-bottom: 1px solid #E2E2E2;
+}
+
+#horiz-menu li li a.daddy,
+#horiz-menu li:hover li a.daddy,
+#horiz-menu li.sfHover li a.daddy {
+	background: url(../images/style2/dropdown-child.png) 95% 50% no-repeat;
+}
+
+/* side menu */
+
+ul.sidenav li.active a,
+ul.menuside li.active a,
+a#active_menu.mainlevel {
+	color: #000;
+	font-weight: bold;
+}
+
+ul.menuside  li.active li a,
+ul.sidenav li.active li a {
+	color: #653b98;
+}
+
+ul.menuside a,
+ul.sidenav a,
+a.mainlevel {
+	background: url(../images/style2/vert-menu-bg.png) 0 0 no-repeat;
+    color: #653b98;
+}
+
+ul.menuside ul a,
+ul.sidenav ul a {
+	border-bottom: 1px solid #e3e3e3;
+}
+
+ul.menuside a:hover,
+ul.sidenav a:hover {
+	color: #000;
+}
+
+/* inset content */
+
+div.sample-header {
+	background: url(../images/style2/header-sample.png) 100% 0 no-repeat ;
+}
+
+/* readon 
+
+#inset .readon {
+	background: url(../images/style2/readmore-header.png) 0 0 no-repeat;
+	color:  #fff;
+}
+
+#inset .readon:hover {
+	color:  #57AC0B;
+}
+*/
+
+/* typography */
+
+li.number-1 {
+	background: url(../images/style2/number-1.png) 0 2px no-repeat;	
+}
+
+li.number-2 {
+	background: url(../images/style2/number-2.png) 0 2px no-repeat;	
+}
+
+li.number-3 {
+	background: url(../images/style2/number-3.png) 0 2px no-repeat;	
+}
+
+li.number-4 {
+	background: url(../images/style2/number-4.png) 0 2px no-repeat;	
+}
+
+li.number-5 {
+	background: url(../images/style2/number-5.png) 0 2px no-repeat;	
+}
+
+li.number-6 {
+	background: url(../images/style2/number-6.png) 0 2px no-repeat;	
+}
+
+li.number-7 {
+	background: url(../images/style2/number-7.png) 0 2px no-repeat;	
+}
+
+li.number-8 {
+	background: url(../images/style2/number-8.png) 0 2px no-repeat;	
+}
+
+li.number-9 {
+	background: url(../images/style2/number-9.png) 0 2px no-repeat;	
+}
+
+ul.arrow-1 li {
+	background: url(../images/style2/arrow-1.png) 2px 2px no-repeat;
+}
+
+ul.arrow-2 li {
+	background: url(../images/style2/arrow-2.png) 2px 2px no-repeat;
+}
+
+ul.arrow-3 li {
+	background: url(../images/style2/arrow-3.png) 5px 3px no-repeat;
+}
+
+ul.arrow-4 li {
+	background: url(../images/style2/arrow-4.png) 5px 3px no-repeat;
+}
+
+ul.triangle-1 li {
+	background: url(../images/style2/triangle-1.png) 6px 4px no-repeat;
+}
+
+ul.triangle-2 li {
+	background: url(../images/style2/triangle-2.png) 6px 4px no-repeat;
+}
+
+ul.bullet-1 li {
+	background: url(../images/style2/bullet-1.png) 6px 4px no-repeat;
+}
+
+ul.bullet-2 li {
+	background: url(../images/style2/bullet-2.png) 6px 4px no-repeat;
+}
+
+ul.plus-1 li {
+	background: url(../images/style2/plus-1.png) 6px 4px no-repeat;
+}
+
+ul.plus-2 li {
+	background: url(../images/style2/plus-2.png) 6px 4px no-repeat;
+}
+
+span.pathway img {
+	background: url(../images/style2/triangle-1.png) 0 50% no-repeat;
+}
